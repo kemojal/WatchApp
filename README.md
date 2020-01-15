@@ -19,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 ![alt text](https://github.com/kemojal/WatchApp/blob/master/misc/gif1.gif "gif of the app")
 
 
+![alt text](https://github.com/kemojal/WatchApp/blob/master/misc/gif2.gif "gif of the app")
+
+
