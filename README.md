@@ -1,6 +1,6 @@
 # watchapp
 
-Is a cross platform ( iOS & Android ) mobile app build using Flutter framework .
+Is a cross platform ( iOS & Android ) mobile app build using Flutter framework. 
 
 ## Getting Started
 
